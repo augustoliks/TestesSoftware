@@ -1,7 +1,7 @@
 # Testes de Software :computer: :school_satchel:
 Repositório feito com a intenção de explorar testes unitários utilizando a linguagem de programação JAVA.
 
->> (big)Os source folder deste repositório seguem uma ordem, da qual se consegue abstrair o passo a passo todo funcionamento das ferramentas do teste unitário utilizando o framework JUnit 4(/big).
+>> (big) Os source folder deste repositório seguem uma ordem, da qual se consegue abstrair o passo a passo todo funcionamento das ferramentas do teste unitário utilizando o framework JUnit 4 (/big).
 
 ## Tópico 01:
 >* IntroduçãoJUnit;
